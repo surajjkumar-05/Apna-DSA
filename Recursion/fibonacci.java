@@ -1,4 +1,5 @@
-
+// Space complexity = O(n)
+// Time complexity = O(2^n)
 public class fibonacci {
 
     public static int fib(int n) {
